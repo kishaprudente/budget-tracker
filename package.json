@@ -8,7 +8,7 @@
 		"start": "nodemon server.js",
 		"lite-server": "lite-server",
 		"webpack": "webpack",
-		"build": "webpack --watch"
+		"build:watch": "webpack --watch"
 	},
 	"repository": {
 		"type": "git",
